@@ -27,3 +27,24 @@ Let's dive into the details:
    - Congratulations on setting up my project! Including my website link (https://iamvny.github.io/Amazon-clone/) allows others to view and interact with my Amazon clone. I'll make sure to showcase my coding skills and the features I've implemented.
 
 This project is an excellent opportunity to practice and showcase my abilities. I'll feel free to experiment and add my own creative touches to make the Amazon clone uniquely mine. Good luck with my web development journey! If I have any specific questions or need assistance with certain aspects of the project, I'll feel free to ask. 😊🚀
+
+# Screenshots
+![Screenshot 2024-01-26 113819](https://github.com/iamvny/Amazon-clone/assets/146625204/3bc9f1b9-f9b7-4e5a-9dfc-995763748321)
+![Screenshot 2024-01-26 113400](https://github.com/iamvny/Amazon-clone/assets/146625204/e13dd6e5-3018-48af-afa1-684ac41df7f1)
+![Screenshot 2024-01-26 113440](https://github.com/iamvny/Amazon-clone/assets/146625204/a31373fa-76b1-41d1-b2de-5369b28b395a)
+![Screenshot 2024-01-26 113514](https://github.com/iamvny/Amazon-clone/assets/146625204/53fb3aff-a1aa-46ff-8fb0-999ff61ca759)
+![Screenshot 2024-01-26 113613](https://github.com/iamvny/Amazon-clone/assets/146625204/086e60f5-aef6-4984-9cb7-56d89826ae48)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
